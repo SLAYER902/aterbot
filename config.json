@@ -1,7 +1,7 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
+		"host": "slaysteal.aternos.me",
+		"port": "21412",
 		"username": "Please enter the bot's username you want"
 	},
 	
